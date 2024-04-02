@@ -5,7 +5,7 @@
 
 -📫 How to reach me www.linkedin.com/in/said-dada-06859a27a
 
--⚡ Fun fact I love the univers of Lovecraft and horror movies
+-⚡ Fun fact I love nature and horror movies
 
 # Languages and Tools:
 css3 html5 bootstap5 javascript react git python nodejs 
