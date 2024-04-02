@@ -3,7 +3,7 @@
 
 -🌱 I’m currently learning laravel
 
--📫 How to reach me binglerlee@gmail.com
+-📫 How to reach me www.linkedin.com/in/said-dada-06859a27a
 
 -⚡ Fun fact I love the univers of Lovecraft and horror movies
 
